@@ -9,11 +9,11 @@
 // --- 🛠️ STUDENT CONFIGURATION ZONE 🛠️ ---
 
 // 1. IDENTITY:
-let pilotName = "BRMTRM"; 
+const pilotName = "BRMTRM"; 
 
 // 2. THE BUG: The speed starts at 60 (Too Fast!). 
 // Fix it by changing this to 8 or 10.
-let gameSpeed = 8; 
+const gameSpeed = 8; 
 
 // 3. THE GATE KEY:
 // The password is HIDDEN inside this encrypted string.
